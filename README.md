@@ -7,7 +7,7 @@ For example I wanted to display Hello Docker
 
 - Create a Dockerfile that contains all the requirements for the simple script.
 - If you used Python packages for your script, you *must* add them to the RUN line.
-<b> vim Dockerfile </b> 
+- <b> vim Dockerfile </b> 
 *copy paste Dockerfile*  #(esc + :wq!)
    
 ---
