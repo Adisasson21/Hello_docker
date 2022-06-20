@@ -2,8 +2,8 @@
 
 Create a simple python script that write anything you want to display
 For example I wanted to display Hello Docker
--- vim getPrint.py
-   print("Hello Docker") &emsp; #to exit and save do (esc + :wq!) 
+- <b> vim getPrint.py </b>
+- print("Hello Docker") &emsp; #to exit and save do (esc + :wq!) 
 
 - Create a Dockerfile that contains all the requirements for the simple script.
 - If you used Python packages for your script, you *must* add them to the RUN line.
