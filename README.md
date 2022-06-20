@@ -22,6 +22,6 @@ If you want to store your image at Docker Hub, follow these steps
 - Then come back to the terminal
 - <b> docker login </b> &emsp; # Here docker will ask you for the username & password
 - <b> docker tag <your_image_name:*see the output from the docker build line> <username>/<your_image_name:*if you want to change the name of the image, do it here*> </b>
-- <b> docker push <username>/<your_image_name> </b>
+- <b> docker push  <username>/<your_image_name> </b>
   
  If you are on your Docker Hub, press ctrl+F5 to see your new image.
