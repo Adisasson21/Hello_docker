@@ -1,4 +1,4 @@
-# Hello_Docker - How to create build an image
+# Hello_Docker - How to create an image
 
 Create a simple python script that write anything you want to display
 For example I wanted to display Hello Docker
