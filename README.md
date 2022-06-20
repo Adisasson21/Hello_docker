@@ -15,8 +15,7 @@ For example I wanted to display Hello Docker
 That's it, we're done with the hard part.
 - Let's make our first image. #Note: You must be in the Dockerfile's folder otherwise it will say "No such file".
 - <b> docker build . -t my-simple-script:v1 </b>  # The dot indicates that you want to run this (or all) Dockerfile && The -t indicates how you want to name the image
-- <b> docker run <my-simple-script:v1> </b>      
-## After the word run, we'll mention the name of the image. In case you don't include before the tag, you'll get a random sequence and you need to specify this.
+- <b> docker run <my-simple-script:v1> </b> # After the word run, we'll mention the name of the image. In case you don't include before the tag, you'll get a random sequence and you need to specify this.
 
 ---
 
